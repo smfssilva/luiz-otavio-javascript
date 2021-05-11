@@ -15,7 +15,7 @@ function criaCalculadora() {
                     this.realizaConta();
                 }
             })
-        }
+        },
 
         clearDisplay() {
             this.display.value = '';
