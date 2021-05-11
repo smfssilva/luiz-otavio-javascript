@@ -53,3 +53,28 @@ form button {
 form button:hover {
     background: var(--primary-color-dark);
 }
+
+.paragrafo-error {
+    background: rgb(248, 136, 136);
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.paragrafo-resultado-normal {
+    background: rgb(123, 223, 123);
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.paragrafo-resultado-alerta {
+    background: rgb(214, 214, 76);
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.paragrafo-resultado-perigo {
+    background: rgb(248, 136, 136);
+    padding: 10px 20px;
+    text-align: center;
+}
+
